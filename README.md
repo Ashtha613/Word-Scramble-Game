@@ -24,4 +24,4 @@
 5. Click "New Word" to get a fresh challenge at any time.
 
 # YOU CAN PLAY THE GAME BY USING THE LINK GIVEN BELOW
-https://budhdev04.github.io/Word-Scramble-Game/
+https://ashtha613.github.io/Word-Scramble-Game/
